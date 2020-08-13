@@ -948,3 +948,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.13-02.01.13:955][483]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.13-02.01.13:956][483]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.08.13-02.01.13:956][483]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.13-02.06.16:872][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.08.13-02.06.18:814][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.08.13-02.06.18:924][880]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap1A00E15A4F544636A4D3DABF74BF5FF8.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.13-02.06.19:355][880]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap_BuiltData72AF07DD4333C227F14AD5A5C5E9F184.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.13-02.06.19:365][880]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.13-02.06.19:365][880]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.13-02.06.19:366][880]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
