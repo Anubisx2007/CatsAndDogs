@@ -955,3 +955,784 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.13-02.06.19:365][880]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.13-02.06.19:365][880]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.08.13-02.06.19:366][880]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.13-02.22.58:606][816]LogMetaData: Removing '/Game/Assets/Props/Centerfountain.Centerfountain' ref from Metadata '/Game/CatsVSDog/Props/Centerfountain.PackageMetaData'
+[2020.08.13-02.22.58:659][816]LogMetaData: Removing '/Game/Assets/Props/archway.archway' ref from Metadata '/Game/CatsVSDog/Props/archway.PackageMetaData'
+[2020.08.13-02.22.58:665][816]LogMetaData: Removing '/Game/Assets/Props/church.church' ref from Metadata '/Game/CatsVSDog/Props/church.PackageMetaData'
+[2020.08.13-02.22.58:670][816]LogMetaData: Removing '/Game/Assets/Props/fountain.fountain' ref from Metadata '/Game/CatsVSDog/Props/fountain.PackageMetaData'
+[2020.08.13-02.22.58:684][816]LogMetaData: Removing '/Game/Assets/Props/Gaspump.Gaspump' ref from Metadata '/Game/CatsVSDog/Props/Gaspump.PackageMetaData'
+[2020.08.13-02.22.58:689][816]LogMetaData: Removing '/Game/Assets/Props/gasstation.gasstation' ref from Metadata '/Game/CatsVSDog/Props/gasstation.PackageMetaData'
+[2020.08.13-02.22.58:694][816]LogMetaData: Removing '/Game/Assets/Props/H1insidestep.H1insidestep' ref from Metadata '/Game/CatsVSDog/Props/H1insidestep.PackageMetaData'
+[2020.08.13-02.22.58:699][816]LogMetaData: Removing '/Game/Assets/Props/H2insidestep.H2insidestep' ref from Metadata '/Game/CatsVSDog/Props/H2insidestep.PackageMetaData'
+[2020.08.13-02.22.58:704][816]LogMetaData: Removing '/Game/Assets/Props/hotelbase.hotelbase' ref from Metadata '/Game/CatsVSDog/Props/hotelbase.PackageMetaData'
+[2020.08.13-02.22.58:709][816]LogMetaData: Removing '/Game/Assets/Props/hotelstairs.hotelstairs' ref from Metadata '/Game/CatsVSDog/Props/hotelstairs.PackageMetaData'
+[2020.08.13-02.22.58:714][816]LogMetaData: Removing '/Game/Assets/Props/house1.house1' ref from Metadata '/Game/CatsVSDog/Props/house1.PackageMetaData'
+[2020.08.13-02.22.58:719][816]LogMetaData: Removing '/Game/Assets/Props/insidehotelstairs.insidehotelstairs' ref from Metadata '/Game/CatsVSDog/Props/insidehotelstairs.PackageMetaData'
+[2020.08.13-02.22.58:724][816]LogMetaData: Removing '/Game/Assets/Props/platform.platform' ref from Metadata '/Game/CatsVSDog/Props/platform.PackageMetaData'
+[2020.08.13-02.22.58:729][816]LogMetaData: Removing '/Game/Assets/Props/rail.rail' ref from Metadata '/Game/CatsVSDog/Props/rail.PackageMetaData'
+[2020.08.13-02.22.58:734][816]LogMetaData: Removing '/Game/Assets/Props/truck.truck' ref from Metadata '/Game/CatsVSDog/Props/truck.PackageMetaData'
+[2020.08.13-02.22.58:768][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Centerfountain" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/Centerfountain.uasset" SILENT=true
+[2020.08.13-02.22.58:784][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Centerfountain30E70CD24F30E9E6DDC0DDBA9F79F036.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/Centerfountain.uasset'
+[2020.08.13-02.22.59:060][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/Centerfountain" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/Centerfountain.uasset" SILENT=true
+[2020.08.13-02.22.59:062][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/CenterfountainFD03C9C84AC99AECB20320B52CE401C0.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/Centerfountain.uasset'
+[2020.08.13-02.22.59:069][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/ground_NRM" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Materials/ground_NRM.uasset" SILENT=true
+[2020.08.13-02.22.59:122][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ground_NRMF5C33FCC4E22A74BAA3D93A865C8DA31.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Materials/ground_NRM.uasset'
+[2020.08.13-02.22.59:762][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Materials/ground_NRM" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Materials/ground_NRM.uasset" SILENT=true
+[2020.08.13-02.22.59:768][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ground_NRMDFF32B2241247FA3CAC5B2895A184699.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Materials/ground_NRM.uasset'
+[2020.08.13-02.22.59:775][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/groundtex" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Materials/groundtex.uasset" SILENT=true
+[2020.08.13-02.22.59:816][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/groundtexEC9E5F09489A8DAD2FE2A2A62F40D12C.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Materials/groundtex.uasset'
+[2020.08.13-02.23.00:350][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Materials/groundtex" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Materials/groundtex.uasset" SILENT=true
+[2020.08.13-02.23.00:355][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/groundtex639A244F48F23527D68CAC98B6689FA0.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Materials/groundtex.uasset'
+[2020.08.13-02.23.00:366][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/NewMaterial" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Materials/NewMaterial.uasset" SILENT=true
+[2020.08.13-02.23.00:375][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/NewMaterialC1A0EA244DD9641AC32D8B8EA7F6DFA4.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Materials/NewMaterial.uasset'
+[2020.08.13-02.23.00:648][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Materials/NewMaterial" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Materials/NewMaterial.uasset" SILENT=true
+[2020.08.13-02.23.00:651][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/NewMaterial268185B74137C817AF54BE9436C84F5E.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Materials/NewMaterial.uasset'
+[2020.08.13-02.23.00:662][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/archway" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/archway.uasset" SILENT=true
+[2020.08.13-02.23.00:670][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/archway9125B145471523F0291C84A371AA15A8.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/archway.uasset'
+[2020.08.13-02.23.00:944][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/archway" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/archway.uasset" SILENT=true
+[2020.08.13-02.23.00:947][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/archwayF3FA5081492D6BA5284CFFB7A0C96F5D.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/archway.uasset'
+[2020.08.13-02.23.00:959][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/church" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/church.uasset" SILENT=true
+[2020.08.13-02.23.00:974][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/churchF25099B648D3363C6D9AC481BB9CB64B.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/church.uasset'
+[2020.08.13-02.23.01:239][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/church" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/church.uasset" SILENT=true
+[2020.08.13-02.23.01:241][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/church48675CB349FD37719A4F84BD6049EC9B.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/church.uasset'
+[2020.08.13-02.23.01:252][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/fountain" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/fountain.uasset" SILENT=true
+[2020.08.13-02.23.01:259][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/fountain0B4E7909489BD6FCBEE30D81889F23CF.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/fountain.uasset'
+[2020.08.13-02.23.01:537][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/fountain" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/fountain.uasset" SILENT=true
+[2020.08.13-02.23.01:547][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/fountainE897432F440765EBADE40699EB4F6AE9.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/fountain.uasset'
+[2020.08.13-02.23.01:554][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Gaspumptex" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/Gaspumptex.uasset" SILENT=true
+[2020.08.13-02.23.01:588][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/GaspumptexC4A6E5F746F83700FC8965B8AC5AB6A1.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/Gaspumptex.uasset'
+[2020.08.13-02.23.02:002][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/Gaspumptex" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/Gaspumptex.uasset" SILENT=true
+[2020.08.13-02.23.02:006][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Gaspumptex6284EA3B431F39146408CBB7F374A0D6.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/Gaspumptex.uasset'
+[2020.08.13-02.23.02:018][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Material__27" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/Material__27.uasset" SILENT=true
+[2020.08.13-02.23.02:025][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Material__27358AE856496702785A7222B4429CA027.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/Material__27.uasset'
+[2020.08.13-02.23.02:308][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/Material__27" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/Material__27.uasset" SILENT=true
+[2020.08.13-02.23.02:313][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Material__27560FCAF141EEF61249F0419B1F0D91A2.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/Material__27.uasset'
+[2020.08.13-02.23.02:325][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/Gaspump" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/Gaspump.uasset" SILENT=true
+[2020.08.13-02.23.02:361][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Gaspump283104EE45BD085A5CB84DB2F82663D7.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/Gaspump.uasset'
+[2020.08.13-02.23.02:640][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/Gaspump" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/Gaspump.uasset" SILENT=true
+[2020.08.13-02.23.02:643][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Gaspump7A2C2DB14D47152271D8699B3119B51E.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/Gaspump.uasset'
+[2020.08.13-02.23.02:654][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/gasstation" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/gasstation.uasset" SILENT=true
+[2020.08.13-02.23.02:668][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/gasstation970B008846AA895BE664DFB63491E8B4.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/gasstation.uasset'
+[2020.08.13-02.23.02:931][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/gasstation" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/gasstation.uasset" SILENT=true
+[2020.08.13-02.23.02:942][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/gasstation45F84E4645411E40804220853FDA7AA6.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/gasstation.uasset'
+[2020.08.13-02.23.02:953][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/H1insidestep" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/H1insidestep.uasset" SILENT=true
+[2020.08.13-02.23.02:960][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/H1insidestep70FF604F49E3ADE6F90686B646C748A8.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/H1insidestep.uasset'
+[2020.08.13-02.23.03:214][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/H1insidestep" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/H1insidestep.uasset" SILENT=true
+[2020.08.13-02.23.03:217][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/H1insidestep9E55C0DA4B87FA8855E65D88BDCF343E.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/H1insidestep.uasset'
+[2020.08.13-02.23.03:227][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/H2insidestep" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/H2insidestep.uasset" SILENT=true
+[2020.08.13-02.23.03:235][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/H2insidestep39647CA7494FC534A58D42AF9BF0BE39.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/H2insidestep.uasset'
+[2020.08.13-02.23.03:503][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/H2insidestep" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/H2insidestep.uasset" SILENT=true
+[2020.08.13-02.23.03:506][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/H2insidestep88AAA8644E97F4B121979AB2C14F6BA5.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/H2insidestep.uasset'
+[2020.08.13-02.23.03:516][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/hotelbase" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/hotelbase.uasset" SILENT=true
+[2020.08.13-02.23.03:524][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/hotelbaseDB589D0C455A3F1B22F39DA3C52036DE.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/hotelbase.uasset'
+[2020.08.13-02.23.03:777][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/hotelbase" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/hotelbase.uasset" SILENT=true
+[2020.08.13-02.23.03:780][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/hotelbase7B16F5B2450817DDB3F0758E156021D0.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/hotelbase.uasset'
+[2020.08.13-02.23.03:791][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/hotelstairs" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/hotelstairs.uasset" SILENT=true
+[2020.08.13-02.23.03:799][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/hotelstairsF3FC7F06441B6F136D6E1483F3818923.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/hotelstairs.uasset'
+[2020.08.13-02.23.04:067][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/hotelstairs" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/hotelstairs.uasset" SILENT=true
+[2020.08.13-02.23.04:071][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/hotelstairsFD3D22014E58D041D17773BE9B89FF94.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/hotelstairs.uasset'
+[2020.08.13-02.23.04:081][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/house1" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/house1.uasset" SILENT=true
+[2020.08.13-02.23.04:090][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/house1BCB03C49446E8D30F945728807AD7F26.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/house1.uasset'
+[2020.08.13-02.23.04:389][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/house1" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/house1.uasset" SILENT=true
+[2020.08.13-02.23.04:392][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/house1714CA15E47909D168FAF7B8A32D019B5.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/house1.uasset'
+[2020.08.13-02.23.04:403][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/insidehotelstairs" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/insidehotelstairs.uasset" SILENT=true
+[2020.08.13-02.23.04:411][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/insidehotelstairs2450BBF24438D4F821CA4DB7899BCC7F.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/insidehotelstairs.uasset'
+[2020.08.13-02.23.04:668][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/insidehotelstairs" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/insidehotelstairs.uasset" SILENT=true
+[2020.08.13-02.23.04:670][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/insidehotelstairs6CD1270140CD5C20AD60479BE2CE85A4.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/insidehotelstairs.uasset'
+[2020.08.13-02.23.04:682][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/platform" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/platform.uasset" SILENT=true
+[2020.08.13-02.23.04:689][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/platform0A0066DD4EFF33B462903E86F610F5AF.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/platform.uasset'
+[2020.08.13-02.23.04:955][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/platform" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/platform.uasset" SILENT=true
+[2020.08.13-02.23.04:958][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/platform5AC8F9124682BF595D36A7AC2431B361.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/platform.uasset'
+[2020.08.13-02.23.04:969][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/rail" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/rail.uasset" SILENT=true
+[2020.08.13-02.23.04:976][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/rail695F96C541EE71558CF27D9E9D32E687.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/rail.uasset'
+[2020.08.13-02.23.05:237][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/rail" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/rail.uasset" SILENT=true
+[2020.08.13-02.23.05:240][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/rail557AD56A4E6B498E15E3628EFC678318.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/rail.uasset'
+[2020.08.13-02.23.05:251][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Props/truck" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Props/truck.uasset" SILENT=true
+[2020.08.13-02.23.05:258][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/truckD1EC0C424FDF3A9707D67E8C27B58BA1.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Props/truck.uasset'
+[2020.08.13-02.23.05:513][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CatsVSDog/Props/truck" FILE="../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/truck.uasset" SILENT=true
+[2020.08.13-02.23.05:517][816]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/truckFC5C71EA4D863CB4ED7AC59A11B917EC.tmp' to '../../../../../../Src/CatsAndDogs/Content/CatsVSDog/Props/truck.uasset'
+[2020.08.13-02.23.13:391][816]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Centerfountain.Centerfountain
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/Centerfountain.Centerfountain
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating Texture2D /Game/Assets/Materials/ground_NRM.ground_NRM
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Materials/ground_NRM.ground_NRM
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating Texture2D /Game/Assets/Materials/groundtex.groundtex
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Materials/groundtex.groundtex
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating Material /Game/Assets/Materials/NewMaterial.NewMaterial
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Materials/NewMaterial.NewMaterial
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/archway.archway
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/archway.archway
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/church.church
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/church.church
+[2020.08.13-02.23.13:391][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/fountain.fountain
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/fountain.fountain
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating Texture2D /Game/Assets/Props/Gaspumptex.Gaspumptex
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/Gaspumptex.Gaspumptex
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating Material /Game/Assets/Props/Material__27.Material__27
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/Material__27.Material__27
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/Gaspump.Gaspump
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/Gaspump.Gaspump
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/gasstation.gasstation
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/gasstation.gasstation
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/H1insidestep.H1insidestep
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/H1insidestep.H1insidestep
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/H2insidestep.H2insidestep
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/H2insidestep.H2insidestep
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/hotelbase.hotelbase
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/hotelbase.hotelbase
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/hotelstairs.hotelstairs
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/hotelstairs.hotelstairs
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/house1.house1
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/house1.house1
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/insidehotelstairs.insidehotelstairs
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/insidehotelstairs.insidehotelstairs
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/platform.platform
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/platform.platform
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/rail.rail
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/rail.rail
+[2020.08.13-02.23.13:392][816]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Props/truck.truck
+[2020.08.13-02.23.13:393][816]LogContentValidation: Display: Validating ObjectRedirector /Game/CatsVSDog/Props/truck.truck
+[2020.08.13-02.23.13:488][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.08.13-02.23.13:628][817]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap_Auto15DF09130484740C774B630820DD3DFF2.tmp' to '../../../../../../Src/CatsAndDogs/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.08.13-02.23.13:630][817]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.151
+[2020.08.13-02.23.13:630][817]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.151
+[2020.08.13-02.24.32:919][762]LogSlate: Window 'Save Level As' being destroyed
+[2020.08.13-02.24.33:114][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.08.13-02.24.33:138][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Oasis" FILE="../../../../../../Src/CatsAndDogs/Content/Levels/Oasis.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.13-02.24.33:157][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.13-02.24.33:281][762]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/OasisB3586D6E48976DCF55C74495053266CC.tmp' to '../../../../../../Src/CatsAndDogs/Content/Levels/Oasis.umap'
+[2020.08.13-02.24.34:148][762]LogFileHelpers: Saving map 'Oasis' took 1.220
+[2020.08.13-02.24.34:148][762]Cmd: MAP LOAD FILE="../../../../../../Src/CatsAndDogs/Content/Levels/Oasis.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.13-02.24.34:164][762]LightingResults: New page: Lighting Build
+[2020.08.13-02.24.34:164][762]LoadErrors: New page: Loading map: Oasis.umap
+[2020.08.13-02.24.34:167][762]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-02.24.34:167][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.13-02.24.34:168][762]MapCheck: New page: Map Check
+[2020.08.13-02.24.34:168][762]LightingResults: New page: Lighting Build
+[2020.08.13-02.24.34:193][762]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002646366FE00), frame # 29762
+[2020.08.13-02.24.34:194][762]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026461BC8CC0), frame # 29762
+[2020.08.13-02.24.34:194][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.13-02.24.34:204][762]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.13-02.24.34:204][762]LogAIModule: Creating AISystem for world Oasis
+[2020.08.13-02.24.34:205][762]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000264045F7400), frame # 29762
+[2020.08.13-02.24.34:205][762]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026479C656C0), frame # 29762
+[2020.08.13-02.24.34:218][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.08.13-02.24.34:243][762]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.13-02.24.34:243][762]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2020.08.13-02.24.34:243][762]LogFileHelpers: Loading map 'Oasis' took 0.096
+[2020.08.13-02.24.34:246][762]AssetCheck: New page: Asset Save: Oasis
+[2020.08.13-02.24.34:246][762]LogContentValidation: Display: Validating World /Game/Levels/Oasis.Oasis
+[2020.08.13-02.24.43:655][311]MapCheck: New page: Map Check
+[2020.08.13-02.24.43:672][311]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.13-02.24.43:672][311]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.13-02.24.43:675][311]LogWorld: UWorld::CleanupWorld for Oasis, bSessionEnded=true, bCleanupResources=false
+[2020.08.13-02.24.43:692][311]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.08.13-02.24.43:692][311]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.08.13-02.24.43:692][311]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.08.13-02.24.43:693][311]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.13-02.24.43:693][311]MapCheck: New page: Oasis - Aug 12, 2020, 6:24:43 PM
+[2020.08.13-02.24.43:693][311]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.08.13-02.24.43:693][311]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.755ms to complete.
+[2020.08.13-02.24.43:695][311]LogEditorBuildUtils: Build time 0:00
+[2020.08.13-02.24.44:975][382]LogSlate: Window 'Message Log' being destroyed
+[2020.08.13-02.24.44:979][382]LogSlate: Window 'Message Log' being destroyed
+[2020.08.13-02.24.46:631][481]MapCheck: New page: Map Check
+[2020.08.13-02.24.46:649][481]LightingResults: New page: Lighting Build - Aug 12, 2020, 6:24:46 PM
+[2020.08.13-02.24.46:676][481]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.13-02.24.46:680][481]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.13-02.24.46:680][481]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.13-02.24.46:681][481]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.13-02.24.46:681][481]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21324
+[2020.08.13-02.24.51:276][481]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.13-02.24.51:276][481]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.13-02.24.51:276][481]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.13-02.24.51:276][481]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.13-02.24.51:276][481]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.13-02.24.51:461][481]LogEditorBuildUtils: Build time 0:04
+[2020.08.13-02.24.53:073][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.08.13-02.24.59:968][957]LightingResults: Warning: H2insidestep Object has overlapping UVs.
+[2020.08.13-02.24.59:968][957]LightingResults: H2insidestep Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.08.13-02.25.00:641][995]LightingResults: Warning: church Object has overlapping UVs.
+[2020.08.13-02.25.00:641][995]LightingResults: church Lightmap UV are overlapping by 3.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.08.13-02.25.04:501][222]LightingResults: Warning: H1insidestep Object has overlapping UVs.
+[2020.08.13-02.25.04:501][222]LightingResults: H1insidestep Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.08.13-02.25.05:269][266]Job is a success!
+[2020.08.13-02.25.05:417][267]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2020.08.13-02.25.05:417][267]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.13-02.25.05:417][267]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2020.08.13-02.25.05:417][267]LogVolumetricLightmapImport:      Bricks at depth
+[2020.08.13-02.25.05:417][267]LogVolumetricLightmapImport:          0: 4.5% covering 100.0% of volume
+[2020.08.13-02.25.05:417][267]LogVolumetricLightmapImport:          1: 18.2% covering 6.3% of volume
+[2020.08.13-02.25.05:417][267]LogVolumetricLightmapImport:          2: 77.3% covering 0.4% of volume
+[2020.08.13-02.25.05:417][267]LogVolumetricLightmapImport:      Bricks in each level
+[2020.08.13-02.25.05:417][267]LogVolumetricLightmapImport:          Oasis 			 22 bricks 	 100.0% (Persistent Level)
+[2020.08.13-02.25.06:556][267]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2020.08.13-02.25.06:556][267]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.08.13-02.25.06:556][267]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.08.13-02.25.06:556][267]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:556][267]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:556][267]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 512X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 512X256)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 512X512)
+[2020.08.13-02.25.06:557][267]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 512X512)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 1024X512)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 1024X512)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 256X128)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 128X64)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 128X128)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 128X64)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 64X32)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 64X64)
+[2020.08.13-02.25.06:558][267]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 64X64)
+[2020.08.13-02.25.06:671][267]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X64)
+[2020.08.13-02.25.06:671][267]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X64)
+[2020.08.13-02.25.06:671][267]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 32X32)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 64X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 512X64)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X128)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X128)
+[2020.08.13-02.25.06:672][267]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X256)
+[2020.08.13-02.25.06:672][267]Lightmass on DESKTOP-F4PG79J: 13.0 sec total, 441 ms importing, 277 ms setup, 3.39 sec photons, 8.86 sec processing, 0 ms extra exporting [192/192 mappings]. Threads: 1:02 min total, 42.1 sec processing.
+[2020.08.13-02.25.06:689][267]LogStaticLightingSystem: Oasis_BuiltData storing lightmap data for 192 meshes in 47 LightmapResourceClusters (4.1 Meshes per cluster).
+[2020.08.13-02.25.06:702][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-02.25.06:717][267]LogStaticLightingSystem: Illumination: 20.0 sec (1.04 sec encoding lightmaps, 73 ms encoding shadowmaps)
+[2020.08.13-02.25.06:717][267]LogStaticLightingSystem: Lightmap texture memory:  9.4 MB (9.4 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.08.13-02.25.06:717][267]LogStaticLightingSystem: Shadowmap texture memory: 2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 23 textures
+[2020.08.13-02.25.07:293][267]DumpUnbuiltLightIteractions
+[2020.08.13-02.25.07:293][267]Lights with unbuilt interactions: 0
+[2020.08.13-02.25.07:293][267]
+[2020.08.13-02.25.07:293][267]Primitives with unbuilt interactions: 0
+[2020.08.13-02.25.07:380][268]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.13-02.25.07:380][268]MapCheck: New page: Oasis - Aug 12, 2020, 6:25:07 PM
+[2020.08.13-02.25.07:381][268]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.962ms to complete.
+[2020.08.13-02.25.09:014][366]LogSlate: Window 'Message Log' being destroyed
+[2020.08.13-02.25.09:020][366]LogSlate: Window 'Message Log' being destroyed
+[2020.08.13-02.25.10:057][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.08.13-02.25.11:103][428]LogSlate: Window 'Save Content' being destroyed
+[2020.08.13-02.25.11:249][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Oasis" FILE="../../../../../../Src/CatsAndDogs/Content/Levels/Oasis.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.13-02.25.11:257][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.13-02.25.11:376][428]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Oasis984DC0EF49AED3ED02CEE58CBEF73F41.tmp' to '../../../../../../Src/CatsAndDogs/Content/Levels/Oasis.umap'
+[2020.08.13-02.25.11:392][428]LogFileHelpers: Saving map 'Oasis' took 0.143
+[2020.08.13-02.25.11:392][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Oasis_BuiltData" FILE="../../../../../../Src/CatsAndDogs/Content/Levels/Oasis_BuiltData.uasset" SILENT=true
+[2020.08.13-02.25.11:697][428]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Oasis_BuiltData6B524A9E404AD97F1CBB82A780551799.tmp' to '../../../../../../Src/CatsAndDogs/Content/Levels/Oasis_BuiltData.uasset'
+[2020.08.13-02.25.12:597][428]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.13-02.25.12:597][428]LogContentValidation: Display: Validating World /Game/Levels/Oasis.Oasis
+[2020.08.13-02.25.12:597][428]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Oasis_BuiltData.Oasis_BuiltData
+[2020.08.13-02.25.13:861][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Oasis" FILE="../../../../../../Src/CatsAndDogs/Content/Levels/Oasis.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.13-02.25.13:871][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-02.25.13:976][496]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Oasis1279CA8E41F4A7C6BE50708EF4B04457.tmp' to '../../../../../../Src/CatsAndDogs/Content/Levels/Oasis.umap'
+[2020.08.13-02.25.14:114][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Oasis_BuiltData" FILE="../../../../../../Src/CatsAndDogs/Content/Levels/Oasis_BuiltData.uasset" SILENT=true
+[2020.08.13-02.25.14:384][496]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Oasis_BuiltData40451171400331A590ECEDA7D555976F.tmp' to '../../../../../../Src/CatsAndDogs/Content/Levels/Oasis_BuiltData.uasset'
+[2020.08.13-02.25.14:393][496]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.13-02.25.14:393][496]LogContentValidation: Display: Validating World /Game/Levels/Oasis.Oasis
+[2020.08.13-02.25.14:393][496]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Oasis_BuiltData.Oasis_BuiltData
+[2020.08.13-02.26.38:815][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Oasis" FILE="../../../../../../Src/CatsAndDogs/Content/Levels/Oasis.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.13-02.26.38:825][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-02.26.38:931][551]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/OasisDE7C65334CB4C511EC62F8924B330DF6.tmp' to '../../../../../../Src/CatsAndDogs/Content/Levels/Oasis.umap'
+[2020.08.13-02.26.39:123][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Oasis_BuiltData" FILE="../../../../../../Src/CatsAndDogs/Content/Levels/Oasis_BuiltData.uasset" SILENT=true
+[2020.08.13-02.26.39:395][551]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Oasis_BuiltData479044D94BC7CA5FEF9008B8532B0086.tmp' to '../../../../../../Src/CatsAndDogs/Content/Levels/Oasis_BuiltData.uasset'
+[2020.08.13-02.26.39:404][551]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.13-02.26.39:404][551]LogContentValidation: Display: Validating World /Game/Levels/Oasis.Oasis
+[2020.08.13-02.26.39:404][551]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Oasis_BuiltData.Oasis_BuiltData
+[2020.08.13-02.27.00:182][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.08.13-02.27.01:907][792]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.13-02.27.02:148][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.08.13-02.27.02:158][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.08.13-02.27.02:167][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.08.13-02.27.02:176][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.08.13-02.27.02:191][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.08.13-02.27.02:200][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.08.13-02.27.02:576][792]SourceControl: Error: Updated 0 paths from the index
+[2020.08.13-02.27.02:779][792]SourceControl: Error: warning: could not open directory 'Content/Geometry/': No such file or directory
+[2020.08.13-02.27.02:779][792]SourceControl: rm 'Content/Geometry/Meshes/1M_Cube.uasset'
+[2020.08.13-02.27.02:779][792]SourceControl: rm 'Content/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2020.08.13-02.27.02:779][792]SourceControl: rm 'Content/Geometry/Meshes/CubeMaterial.uasset'
+[2020.08.13-02.27.02:779][792]SourceControl: rm 'Content/Geometry/Meshes/TemplateFloor.uasset'
+[2020.08.13-02.27.14:541][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-02.27.16:392][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.08.13-02.27.35:691][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Oasis" FILE="../../../../../../Src/CatsAndDogs/Content/Levels/Oasis.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.13-02.27.35:700][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.08.13-02.27.35:805][756]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/OasisC209B2164288B08AAA1472B809321DEA.tmp' to '../../../../../../Src/CatsAndDogs/Content/Levels/Oasis.umap'
+[2020.08.13-02.27.35:997][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Oasis_BuiltData" FILE="../../../../../../Src/CatsAndDogs/Content/Levels/Oasis_BuiltData.uasset" SILENT=true
+[2020.08.13-02.27.36:266][756]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/Oasis_BuiltData3C1CF5F04958B6845A40B7A23583CBCF.tmp' to '../../../../../../Src/CatsAndDogs/Content/Levels/Oasis_BuiltData.uasset'
+[2020.08.13-02.27.36:276][756]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.13-02.27.36:276][756]LogContentValidation: Display: Validating World /Game/Levels/Oasis.Oasis
+[2020.08.13-02.27.36:276][756]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Oasis_BuiltData.Oasis_BuiltData
+[2020.08.13-02.27.37:241][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.08.13-02.27.37:275][814]LogSlate: Window 'CatsandDogs - Unreal Editor' being destroyed
+[2020.08.13-02.27.37:411][815]Cmd: QUIT_EDITOR
+[2020.08.13-02.27.37:411][815]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.08.13-02.27.37:423][815]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.08.13-02.27.37:457][815]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.13-02.27.37:468][815]LogExit: Preparing to exit.
+[2020.08.13-02.27.38:402][815]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-02.27.38:402][815]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-02.27.38:402][815]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-02.27.38:413][815]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.08.13-02.27.38:415][815]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-02.27.38:416][815]LogExit: Editor shut down
+[2020.08.13-02.27.38:416][815]LogExit: Transaction tracking system shut down
+[2020.08.13-02.27.38:520][815]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026479C656C0), frame # 39815
+[2020.08.13-02.27.38:520][815]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000264045F7400), frame # 39815
+[2020.08.13-02.27.38:523][815]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000026467C06080), frame # 39815
+[2020.08.13-02.27.38:523][815]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002646C433B00), frame # 39815
+[2020.08.13-02.27.38:523][815]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002646C48EA00), frame # 39815
+[2020.08.13-02.27.38:543][815]LogExit: Object subsystem successfully closed.
+[2020.08.13-02.27.38:567][815]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (794)
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (792)
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.08.13-02.27.38:581][815]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.08.13-02.27.38:582][815]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.08.13-02.27.38:583][815]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.08.13-02.27.39:675][815]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.08.13-02.27.39:676][815]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.08.13-02.27.39:710][815]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.08.13-02.27.39:711][815]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.08.13-02.27.39:712][815]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.08.13-02.27.39:934][815]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.08.13-02.27.39:935][815]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.08.13-02.27.39:936][815]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.08.13-02.27.39:937][815]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.08.13-02.27.39:938][815]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.08.13-02.27.39:938][815]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.08.13-02.27.39:938][815]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.08.13-02.27.39:938][815]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.08.13-02.27.39:938][815]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.08.13-02.27.39:938][815]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.08.13-02.27.39:938][815]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.08.13-02.27.40:039][815]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.08.13-02.27.40:140][815]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.08.13-02.27.40:140][815]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.08.13-02.27.40:140][815]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.08.13-02.27.40:141][815]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.08.13-02.27.40:141][815]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.08.13-02.27.40:141][815]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.08.13-02.27.40:141][815]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.08.13-02.27.40:141][815]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.08.13-02.27.40:141][815]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.08.13-02.27.40:141][815]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.08.13-02.27.40:142][815]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.08.13-02.27.40:143][815]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.08.13-02.27.40:143][815]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.08.13-02.27.40:143][815]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.08.13-02.27.40:143][815]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.08.13-02.27.40:143][815]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.08.13-02.27.40:143][815]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.08.13-02.27.40:143][815]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.08.13-02.27.40:144][815]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.08.13-02.27.40:145][815]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.08.13-02.27.40:146][815]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.08.13-02.27.40:147][815]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.08.13-02.27.40:147][815]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.08.13-02.27.40:147][815]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.08.13-02.27.40:147][815]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.08.13-02.27.40:147][815]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.08.13-02.27.40:147][815]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.08.13-02.27.40:147][815]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.08.13-02.27.40:148][815]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.08.13-02.27.40:148][815]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.08.13-02.27.40:148][815]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.08.13-02.27.40:148][815]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.08.13-02.27.40:151][815]LogHMD: Freeing OpenVRDLLHandle.
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.08.13-02.27.40:151][815]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.08.13-02.27.40:152][815]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.08.13-02.27.40:152][815]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.08.13-02.27.40:157][815]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.08.13-02.27.40:158][815]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.08.13-02.27.40:158][815]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF0D9CC0F-4CD8-B0D9-6995-9888431FFC20%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=e2ba3efc4bee217421b52383133bdb0d%7C13195767f27349a0a6463f5738600093%7C9f2b787b-76f8-4187-aa57-a13a0ccb209c&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.08.13-02.27.40:181][815]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.08.13-02.27.40:182][815]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.08.13-02.27.40:184][815]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.08.13-02.27.40:184][815]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.08.13-02.27.40:185][815]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.08.13-02.27.40:186][815]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.08.13-02.27.40:186][815]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.08.13-02.27.40:186][815]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.08.13-02.27.40:186][815]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.08.13-02.27.40:186][815]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.08.13-02.27.40:186][815]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.08.13-02.27.40:186][815]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.08.13-02.27.40:186][815]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.08.13-02.27.40:187][815]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.08.13-02.27.40:187][815]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.08.13-02.27.40:187][815]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.08.13-02.27.40:187][815]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.08.13-02.27.40:187][815]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.08.13-02.27.40:187][815]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.08.13-02.27.40:187][815]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.08.13-02.27.40:187][815]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.08.13-02.27.40:187][815]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.08.13-02.27.40:196][815]LogD3D11RHI: Shutdown
+[2020.08.13-02.27.40:196][815]LogD3D11RHI: CleanupD3DDevice
+[2020.08.13-02.27.40:208][815]LogExit: Exiting.
+[2020.08.13-02.27.40:225][815]Log file closed, 08/12/20 22:27:40
