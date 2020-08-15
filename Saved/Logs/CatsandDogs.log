@@ -1500,3 +1500,197 @@ An asset already exists at the import location: /Game/Assets/Props/palmtree
 [2020.08.15-09.14.39:915][647]Cmd: MAP CHECK NOTIFYRESULTS
 [2020.08.15-09.14.39:915][647]MapCheck: New page: ThirdPersonExampleMap - Aug 15, 2020, 1:14:39 AM
 [2020.08.15-09.14.39:916][647]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.032ms to complete.
+[2020.08.15-09.24.11:038][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.15-09.24.11:198][560]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap_Auto306F22DC549F0668CB958F186FA936CCE.tmp' to '../../../../../../Src/CatsAndDogs/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2020.08.15-09.24.11:200][560]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.171
+[2020.08.15-09.24.11:200][560]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.171
+[2020.08.15-09.24.11:200][560]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Materials/NewMaterial1] ([1] browsable assets)...
+[2020.08.15-09.24.11:200][560]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/NewMaterial1]
+[2020.08.15-09.24.11:200][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/NewMaterial1" FILE="../../../../../../Src/CatsAndDogs/Saved/Autosaves/Game/Assets/Materials/NewMaterial1_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.08.15-09.24.11:205][560]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/NewMaterial1_Auto3502C623D4E427FEE958CD8A97262CF7A.tmp' to '../../../../../../Src/CatsAndDogs/Saved/Autosaves/Game/Assets/Materials/NewMaterial1_Auto3.uasset'
+[2020.08.15-09.24.11:207][560]LogFileHelpers: Auto-saving content packages took 0.007
+[2020.08.15-09.28.15:726][360]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-09.28.15:734][360]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-09.28.22:323][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (palmtree)
+[2020.08.15-09.28.33:101][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.08.15-09.28.33:217][391]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap03DAD4CD4154E50AF513E1886D2FB2E4.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.15-09.28.33:643][391]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap_BuiltDataE16AA02640DD980F98EF269508A3B1BE.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.15-09.28.33:653][391]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.15-09.28.33:653][391]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.15-09.28.33:653][391]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.15-09.28.35:197][479]MapCheck: New page: Map Check
+[2020.08.15-09.28.35:216][479]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.15-09.28.35:216][479]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.15-09.28.35:220][479]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2020.08.15-09.28.35:239][479]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.08.15-09.28.35:239][479]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.08.15-09.28.35:239][479]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.08.15-09.28.35:239][479]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.15-09.28.35:239][479]MapCheck: New page: ThirdPersonExampleMap - Aug 15, 2020, 1:28:35 AM
+[2020.08.15-09.28.35:239][479]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.08.15-09.28.35:240][479]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.275ms to complete.
+[2020.08.15-09.28.35:243][479]LogEditorBuildUtils: Build time 0:00
+[2020.08.15-09.28.36:666][559]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-09.28.36:673][559]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-09.28.39:967][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.08.15-09.28.41:161][754]LogSlate: Window 'Save Content' being destroyed
+[2020.08.15-09.28.41:358][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/NewMaterial1" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Materials/NewMaterial1.uasset" SILENT=true
+[2020.08.15-09.28.41:362][754]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/NewMaterial1495D8521471B988FF7019FB8C0E29DC0.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Materials/NewMaterial1.uasset'
+[2020.08.15-09.28.41:374][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.08.15-09.28.41:487][754]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMapE599854F4417D70603E7879A9307F652.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.15-09.28.41:502][754]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.138
+[2020.08.15-09.28.41:788][754]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap_BuiltData46B5FA0847D7B61475E654B657C8DBB8.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.15-09.28.41:803][754]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.15-09.28.41:803][754]LogContentValidation: Display: Validating Material /Game/Assets/Materials/NewMaterial1.NewMaterial1
+[2020.08.15-09.28.41:803][754]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.15-09.28.41:803][754]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.15-09.28.43:135][830]MapCheck: New page: Map Check
+[2020.08.15-09.28.43:147][830]LightingResults: New page: Lighting Build - Aug 15, 2020, 1:28:43 AM
+[2020.08.15-09.28.43:172][830]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.15-09.28.43:175][830]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.15-09.28.43:175][830]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.15-09.28.43:175][830]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.15-09.28.43:175][830]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17544
+[2020.08.15-09.28.47:824][830]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.15-09.28.47:824][830]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.15-09.28.47:824][830]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.15-09.28.47:824][830]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.15-09.28.47:824][830]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.15-09.28.48:027][830]LogEditorBuildUtils: Build time 0:04
+[2020.08.15-09.28.48:038][830]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial1, compiling. 
+[2020.08.15-09.28.48:041][830]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial1, compiling. 
+[2020.08.15-09.28.48:044][830]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial1, compiling. 
+[2020.08.15-09.28.48:063][830]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.08.15-09.28.48:063][830]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.15-09.28.48:063][830]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.15-09.28.48:063][830]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.08.15-09.28.49:034][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.08.15-09.28.56:787][256]LightingResults: Warning: H1insidestep Object has overlapping UVs.
+[2020.08.15-09.28.56:787][256]LightingResults: H1insidestep Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.08.15-09.28.56:981][266]LightingResults: Warning: H2insidestep Object has overlapping UVs.
+[2020.08.15-09.28.56:981][266]LightingResults: H2insidestep Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.08.15-09.29.01:180][515]LightingResults: Warning: church Object has overlapping UVs.
+[2020.08.15-09.29.01:180][515]LightingResults: church Lightmap UV are overlapping by 3.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.08.15-09.29.01:572][536]Job is a success!
+[2020.08.15-09.29.01:757][537]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.08.15-09.29.01:757][537]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.15-09.29.01:757][537]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2020.08.15-09.29.01:757][537]LogVolumetricLightmapImport:      Bricks at depth
+[2020.08.15-09.29.01:757][537]LogVolumetricLightmapImport:          0: 4.3% covering 100.0% of volume
+[2020.08.15-09.29.01:757][537]LogVolumetricLightmapImport:          1: 17.4% covering 6.3% of volume
+[2020.08.15-09.29.01:757][537]LogVolumetricLightmapImport:          2: 78.3% covering 0.4% of volume
+[2020.08.15-09.29.01:757][537]LogVolumetricLightmapImport:      Bricks in each level
+[2020.08.15-09.29.01:757][537]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 23 bricks 	 100.0% (Persistent Level)
+[2020.08.15-09.29.02:873][537]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2020.08.15-09.29.02:873][537]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 128X64)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 256X128)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 256X128)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 256X128)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 256X128)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 512X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 512X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 512X512)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 512X512)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 256X128)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 1024X512)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2020.08.15-09.29.02:874][537]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 256X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 256X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 256X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 256X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 256X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 256X256)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 256X256)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 128X64)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 128X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 128X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 128X64)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 128X64)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 128X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 128X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 128X64)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 128X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 128X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 128X64)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 128X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 128X128)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: SkyOcclusion1_23 (AutoDXT, 64X32)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 64X64)
+[2020.08.15-09.29.02:875][537]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 64X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 512X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 128X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 128X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 256X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 128X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 128X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 32X32)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 512X64)
+[2020.08.15-09.29.03:001][537]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (BGRA8, 1024X128)
+[2020.08.15-09.29.03:002][537]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (BGRA8, 1024X128)
+[2020.08.15-09.29.03:002][537]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 1024X256)
+[2020.08.15-09.29.03:002][537]Lightmass on DESKTOP-F4PG79J: 13.0 sec total, 431 ms importing, 303 ms setup, 3.25 sec photons, 8.97 sec processing, 0 ms extra exporting [193/193 mappings]. Threads: 1:02 min total, 41.6 sec processing.
+[2020.08.15-09.29.03:017][537]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 193 meshes in 50 LightmapResourceClusters (3.9 Meshes per cluster).
+[2020.08.15-09.29.03:038][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.08.15-09.29.03:056][537]LogStaticLightingSystem: Illumination: 19.8 sec (1.02 sec encoding lightmaps, 74 ms encoding shadowmaps)
+[2020.08.15-09.29.03:056][537]LogStaticLightingSystem: Lightmap texture memory:  9.4 MB (9.4 MB streaming, 0.0 MB non-streaming), 46 textures
+[2020.08.15-09.29.03:056][537]LogStaticLightingSystem: Shadowmap texture memory: 2.2 MB (2.2 MB streaming, 0.0 MB non-streaming), 22 textures
+[2020.08.15-09.29.03:837][537]DumpUnbuiltLightIteractions
+[2020.08.15-09.29.03:837][537]Lights with unbuilt interactions: 0
+[2020.08.15-09.29.03:837][537]
+[2020.08.15-09.29.03:837][537]Primitives with unbuilt interactions: 0
+[2020.08.15-09.29.03:983][538]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.15-09.29.03:983][538]MapCheck: New page: ThirdPersonExampleMap - Aug 15, 2020, 1:29:03 AM
+[2020.08.15-09.29.03:984][538]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.896ms to complete.
+[2020.08.15-09.34.20:052][499]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-09.34.20:057][499]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-09.34.23:647][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.15-09.34.23:809][706]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMapF35BABF440D36CB960FCFBBE8D1FFB65.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.15-09.34.24:217][706]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap_BuiltData90E273BC4CDA7012E6EF06A83C66B519.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.15-09.34.24:227][706]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.15-09.34.24:227][706]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.15-09.34.24:227][706]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.15-09.34.24:763][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
