@@ -2729,3 +2729,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.20-20.05.56:052][881]LogDirectoryWatcher: A directory notification failed for 'D:/Src/CatsAndDogs/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2020.08.20-20.05.56:052][881]LogDirectoryWatcher: A directory notification failed for 'D:/Src/CatsAndDogs/Content/Developers/User/Collections/' because it could not be accessed. Aborting watch request...
 [2020.08.20-20.05.56:388][882]LogDirectoryWatcher: A directory notification failed for 'D:/Src/CatsAndDogs/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.08.20-20.12.21:819][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.08.20-20.12.21:977][350]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap71D964AB45276236466901B7808D192B.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.20-20.12.22:597][350]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap_BuiltDataC27644CF419CB47FC5EB349CC4D7963E.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.20-20.12.22:614][350]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.20-20.12.22:614][350]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.20-20.12.22:614][350]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.20-20.12.24:320][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.20-20.12.25:516][450]LogSlate: Window 'Save Content' being destroyed
+[2020.08.20-20.12.25:655][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/desert_ground" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Materials/desert_ground.uasset" SILENT=true
+[2020.08.20-20.12.25:660][450]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/desert_groundC0B63D8443CE22C726288CAE48E52C70.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Materials/desert_ground.uasset'
+[2020.08.20-20.12.25:662][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/ground" FILE="../../../../../../Src/CatsAndDogs/Content/Assets/Materials/ground.uasset" SILENT=true
+[2020.08.20-20.12.25:667][450]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ground1BAA63F54BA7A202DB2EB68177343081.tmp' to '../../../../../../Src/CatsAndDogs/Content/Assets/Materials/ground.uasset'
+[2020.08.20-20.12.25:681][450]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.20-20.12.25:681][450]LogContentValidation: Display: Validating Material /Game/Assets/Materials/desert_ground.desert_ground
+[2020.08.20-20.12.25:681][450]LogContentValidation: Display: Validating Material /Game/Assets/Materials/ground.ground
+[2020.08.20-20.14.21:213][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.08.20-20.14.21:347][ 53]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap8257870C48A98162589F48B3FA9D957E.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.20-20.14.21:928][ 53]LogSavePackage: Moving '../../../../../../Src/CatsAndDogs/Saved/ThirdPersonExampleMap_BuiltDataBAD20E88404796A5EDCAB6BB2C484157.tmp' to '../../../../../../Src/CatsAndDogs/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.20-20.14.21:938][ 53]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.20-20.14.21:938][ 53]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.20-20.14.21:938][ 53]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.20-20.14.24:508][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
